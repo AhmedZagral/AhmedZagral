@@ -1,4 +1,4 @@
-👋 Hi, I’m @AhmedZagral, a first-year computer science student passionate about learning and exploring the world of software development.
+👋 Hi, I’m @AhmedZagral, a computer science student passionate about learning and exploring the world of software development.
 
 👀 I’m interested in Python, C++, databases, and algorithms.
 
